@@ -1,0 +1,17 @@
+.movieDetail {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.img_wrp {
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+}
+.parraf {
+  align-items: center;
+  text-align: center;
+  width: 70%;
+}
